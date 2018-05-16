@@ -1,2 +1,3 @@
-# drumkit
-A Drum
+---
+layout: default
+---
