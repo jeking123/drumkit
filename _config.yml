@@ -15,13 +15,11 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    file:
-    Keycode:
+    file: 
+    Keycode: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
 permalink: pretty
-
-
